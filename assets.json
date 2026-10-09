@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D glowing hexagonal energy core orb with bright blue-cyan center, deep navy radial gradient background, centered, crisp, no text"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, dark navy industrial reactor shaft interior, thin blue light lines, cinematic, very dark, no text, no UI"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, tall futuristic magnetic shaft tower seen from below, electric blue and violet light, vibrant 3D render, no text, no UI"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, soft blurred dark navy metal shaft walls, low contrast for UI overlay, no text, no UI"
+    },
+    {
+      "name": "sprite_core",
+      "type": "sprite",
+      "prompt": "One single glowing blue-cyan energy sphere, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_platform_push",
+      "type": "sprite",
+      "prompt": "One single horizontal blue metal magnetic platform bar with glowing edge, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_platform_pull",
+      "type": "sprite",
+      "prompt": "One single horizontal violet metal magnetic platform bar with glowing edge, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_hazard",
+      "type": "sprite",
+      "prompt": "One single yellow and black warning spike block, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_beacon",
+      "type": "sprite",
+      "prompt": "One single golden beacon receiver dish emitting light, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_shaft",
+      "type": "sprite",
+      "prompt": "One single narrow vertical metal shaft segment tile, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "button_cta",
+      "type": "button",
+      "prompt": "Horizontal game CTA button background, blue to violet gradient, glossy, rounded, no text"
+    }
+  ]
+}
